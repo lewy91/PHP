@@ -1,0 +1,27 @@
+[08-Mar-2019 07:49:14 Europe/Warsaw] PHP Warning:  require_once(inc/functions.php): failed to open stream: Brak dostępu in /home/kl2ag1/public_html/index.php on line 13
+[08-Mar-2019 07:49:14 Europe/Warsaw] PHP Fatal error:  require_once(): Failed opening required 'inc/functions.php' (include_path='.:/usr/share/php') in /home/kl2ag1/public_html/index.php on line 13
+[08-Mar-2019 07:50:49 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 07:53:24 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 07:54:07 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:05:54 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:17:46 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '?>', expecting '{' in /home/kl2ag1/public_html/inc/functions.php on line 34
+[08-Mar-2019 08:18:29 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:18:29 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/kl2ag1/public_html/formularz.html on line 8
+[08-Mar-2019 08:18:49 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:18:49 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in /home/kl2ag1/public_html/formularz.html on line 8
+[08-Mar-2019 08:19:15 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:19:15 Europe/Warsaw] PHP Notice:  Undefined variable: haslo in /home/kl2ag1/public_html/formularz.html on line 11
+[08-Mar-2019 08:35:16 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:35:16 Europe/Warsaw] PHP Notice:  Undefined variable: haslo in /home/kl2ag1/public_html/formularz.html on line 11
+[08-Mar-2019 08:37:53 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:37:53 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '}' in /home/kl2ag1/public_html/formularz.html on line 15
+[08-Mar-2019 08:41:23 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:41:23 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '<' in /home/kl2ag1/public_html/formularz.html on line 16
+[08-Mar-2019 08:41:58 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:41:58 Europe/Warsaw] PHP Notice:  Undefined variable: haslo in /home/kl2ag1/public_html/formularz.html on line 11
+[08-Mar-2019 08:43:02 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:43:02 Europe/Warsaw] PHP Notice:  Undefined variable: haslo in /home/kl2ag1/public_html/formularz.html on line 11
+[08-Mar-2019 08:43:44 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:44:00 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:44:13 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
+[08-Mar-2019 08:44:23 Europe/Warsaw] PHP Notice:  Undefined variable: tytul in /home/kl2ag1/public_html/inc/template.php on line 10
